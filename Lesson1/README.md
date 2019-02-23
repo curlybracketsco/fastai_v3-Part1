@@ -1,6 +1,6 @@
 # SuperModel
 
-My homework project for Lesson 1 - a supermodel classifier
+My homework project for Lesson 1: use a deep neural network with transfer learning to identify some supermodels.
 
 - [x] Write code to download a dataset
 - [x] First version of model training on clean-ish dataset (taking directly from the Lesson 1 notebook)
